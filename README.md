@@ -1,8 +1,8 @@
-# 📊 Target E-Commerce Sales Analysis
+# 📊 E-Commerce Sales Analysis
 
 ## 📌 Project Overview
 
-This project presents an end-to-end analysis of the **Target E-Commerce Sales Dataset** using **Python**. The objective is to extract meaningful business insights by analyzing sales performance, customer behavior, product trends, seller performance, payment methods, and delivery efficiency.
+This project presents an end-to-end analysis of the **E-Commerce Sales Dataset** using **Python**. The objective is to extract meaningful business insights by analyzing sales performance, customer behavior, product trends, seller performance, payment methods, and delivery efficiency.
 
 The project covers the complete data analytics workflow, including data cleaning, exploratory data analysis (EDA), KPI analysis, data visualization, and business recommendations to support data-driven decision-making.
 
@@ -19,7 +19,7 @@ The project covers the complete data analytics workflow, including data cleaning
 
 ## 📂 Dataset Information
 
-- **Dataset:** Target E-Commerce Sales Dataset
+- **Dataset:**E-Commerce Sales Dataset
 - **Source:** Kaggle
 - **Format:** CSV Files
 - **Total Datasets:** 7
@@ -50,7 +50,7 @@ The project covers the complete data analytics workflow, including data cleaning
 
 ## 📈 Project Workflow
 
-1. Collected the Target E-Commerce datasets.
+1. Collected the E-Commerce datasets.
 2. Performed data cleaning and preprocessing.
 3. Conducted Exploratory Data Analysis (EDA) to understand data quality, structure, and patterns.
 4. Imported the cleaned datasets into a MySQL database.
